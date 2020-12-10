@@ -1,7 +1,7 @@
 # Hello_World.py
 Code of python languages
 
-a = int(input(Enter no1:))
-b = int(input(enter no2:))
+a = int(input("Enter the number :"))
+b = int(input("Enter the number :"))
 c = a + b 
-print(Enter the no:, "" , c)
+print("Addition of two number is :", "" , c)
